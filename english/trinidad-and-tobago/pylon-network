@@ -1,0 +1,15 @@
+This documents all the processes invlolved in Pylon Support Services optaining their Microsoft Wildcard and Data Center SSL Certificate.
+Pylon network is the partnership with azure on-premise server in the microsoft innovation center with private networks from companies with data center certificates.
+Each member on the network must pays for on-premise servers and the physical network setup (if needed)
+___________________________________________________________________________________________________________________________________________________________________________________
+Member Requirements - Pylon Cloud VPS (License)
+1. West Indies WAN security token
+2. Webserver Credentials 
+
+IPV6 ----::----:----:----:-----
+1. Contact support@gopylonservices.com for purchasing a dedicated IPV6
+2. Go to https://azure.c7caribbean.com/resources/ssl.pylon to download a open license
+3. register name server with data center!
+  - https://azure.gopylonservices.com/offline
+  - https://azure.c7caribbean.com/offline
+  > Registering a name servers and data centers in the same domain is always recommended.
